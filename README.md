@@ -26,9 +26,10 @@
 
 ☁️ Можете связаться со мной, если у вас есть интересные(да вообще хоть какие-то) предложения или вопросы по фронтенду.
 
----
+<h1 align="center">
+  ⚔️ Languages and Tools ⚔️
+</h1>
 
-### ⚔️ Languages and Tools:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="40" height="40"/>&nbsp;
